@@ -1,85 +1,70 @@
-# TailAdmin - Free Tailwind Admin Dashboard Template
-TailAdmin is a high-quality, open-source, and **free Tailwind CSS admin template** that is perfect for creating data-rich backends, 
-powerful web applications and dashboard-admin projects.
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![tailwind admin template](https://ucarecdn.com/364f2f57-6e1a-4ca4-9fc8-ab721029f6c3/tailadmingh.png)](https://tailadmin.com/)
+## Available Scripts
 
-### [✨ Visit Website](https://tailadmin.com/)
+In the project directory, you can run:
 
-### [🚀 PRO Demo](https://demo.tailadmin.com/)
-### [🚀 FREE Demo](https://free-demo.tailadmin.com/)
+### `npm start`
 
-### TailAdmin PRO vs TailAdmin FREE Comparison 📊
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-#### [TailAdmin PRO](https://demo.tailadmin.com/)
-- 4 Unique Dashboards: Analytics, Ecommerce, Marketing, CRM, Stocks (More will be added)
-- 150+ Dashboard UI Components
-- 200+ Total UI Elements
-- 50+ HTML Files
-- All Essential Elements and Files
-- Full Figma Design Source - As Shown on Demo
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-___
+### `npm test`
 
-#### [TailAdmin FREE](https://free-demo.tailadmin.com/)
-- 1 Unique Dashboard
-- 30+ Dashboard UI Components
-- 50+ Total UI Elements 
-- 10+ HTML Files
-- Basic UI Kit Elements and Files
-- Figma Design Source - Free Sample
-___
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### [⬇️ Download Now](https://tailadmin.com/download)
+### `npm run build`
 
-### [⚡ Get PRO Version](https://tailadmin.com/pricing)
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### [📄 Documentation/Installation](https://tailadmin.com/docs)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### [🖌️ TailAdmin Figma Free Sample](https://www.figma.com/community/file/1214477970819985778)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### [👉 TailAdmin React](https://github.com/TailAdmin/free-react-tailwind-admin-dashboard)
+### `npm run eject`
 
-### [👉 TailAdmin Next.js](https://github.com/TailAdmin/free-nextjs-admin-dashboard)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Installation
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You'll need to install Node.js >=v14.16+ (Recommended Version) (NPM comes along with it)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-Use terminal and navigate to the project (tailadmin) root. 
+## Learn More
 
-- Clone the repository with the following command:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```bash
-git clone https://github.com/TailAdmin/tailadmin-free-tailwind-dashboard-template
-```
-- Then run : <code>npm install</code> to install dependencies
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-- Then run : <code>npm start</code> to run the project in dev mode
+### Code Splitting
 
-Now, in the browser go to <code>localhost:3000</code>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-**For Production Build**
-Run : <code>npm run build</code>
+### Analyzing the Bundle Size
 
-This command will generate a Build folder in the root of your template that you can upload to your server.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
 
-### 200+ Essential UI Components, Elements and App Pages for Dashboards
-With TailAdmin, you can launch your web projects quickly and easily, thanks to it contains 100+ pre-designed dashboard elements, components and pages. 
-Such as - header, navigation menu, chat, message, invoice, setting, sidebar, charts, graphs, tables, filters, search boxes, auth, buttons
-and **everything a dashboard needs for interacting with the data**
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Tailwind CSS HTML Admin Template
-TailAdmin is based on **Tailwind CSS and interaction handled by Alpine.js** Tailwind CSS is a powerful, utility-first framework that can help you build highly readable, fast-loading websites. 
-Its template-based design makes it easy to get started, and you can quickly create an admin interface with the same consistency. 
-So you can add your own style or customize TailAdmin without touching to CSS.
+### Advanced Configuration
 
-### License 
-TailAdmin Basic version is 100% free and open-source, allowing you to use it freely for both personal and commercial projects without any need for 
-attribution or credits.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-If you're in search of a top-notch Tailwind CSS admin and dashboard template that comprises all the necessary dashboard elements and functionalities, TailAdmin is an ideal option for you.
+### Deployment
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
